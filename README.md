@@ -9,8 +9,9 @@ Inside src folder you can find:
 The input must be like:
 
 3 (number of tickets)
-100 2 2 4 (price of ticket, number of cities, which cities you can go to)
-200 3 1 2 3
+ticket n.1 100 2 2 4 (price of ticket, number of cities, which cities you can go to)
+ticket n.2 100 3 1 4 3
+ticket n.3 200 3 1 2 3
 2 (number of itineraries)
 3 1 4 3 (number of cities you want to visit, which cities)
 3 1 2 4
